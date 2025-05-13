@@ -52,14 +52,6 @@
 
 ---
 
-### 📝 Latest Projects
-
-- [Que Hacer Hoy](https://github.com/delarosajose/que-hacer-hoy): A cross-platform app for discovering local events.
-- [SIUBEN Mobile Integration](https://github.com/delarosajose/siuben-mobile): Mobile system integration for national projects.
-- [SIC ERP Modules](https://github.com/delarosajose/sic-erp): Custom modules developed for ERP systems.
-
----
-
 ### 🎯 Goals
 
 - 📱 Continue developing innovative cross-platform mobile applications.
